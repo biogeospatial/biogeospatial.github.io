@@ -12,5 +12,5 @@ One of its main purposes is to serve the documentation for the [Biodiverse](http
 
 - [Publications using Biodiverse](https://biogeospatial.github.io/biodiverse-publication-list/)
 
-[![](<img src="images/Aus_endemism_2cell_2deg_200dpi.png" alt="Description" width="220">)](http://shawnlaffan.github.io/biodiverse/)
+[<img src="images/Aus_endemism_2cell_2deg_200dpi.png" alt="Description" width="220">](http://shawnlaffan.github.io/biodiverse/)
 
